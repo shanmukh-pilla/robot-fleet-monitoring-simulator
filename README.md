@@ -12,14 +12,12 @@ The project explores robotics workflow monitoring, operational visibility, and s
     width="100%"
   />
 
-  <br/>
-  <br/>
-
   <p>
     Robot Fleet Monitoring Simulator — Operational dashboard for monitoring robotic workflows, incidents, and fleet activity.
   </p>
 
 </div>
+<br/>
 
 ## Tech Stack
 
