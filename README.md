@@ -69,7 +69,6 @@ robot-fleet-monitoring-simulator/
 
 ## Author
 
-Shanmukh Venkat Sai Kumar Pilla
-
+Shanmukh Pilla
 M.Sc. Engineering of Socio-Technical Systems  
 University of Oldenburg
