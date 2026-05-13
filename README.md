@@ -4,6 +4,23 @@ A Python-based simulation dashboard for monitoring robotic fleet operations, wor
 
 The project explores robotics workflow monitoring, operational visibility, and simulation-based testing systems through an interactive dashboard interface.
 
+<div align="center">
+
+  <img 
+    src="./Images/dashboard-preview.png" 
+    alt="Robot Fleet Monitoring Simulator Dashboard"
+    width="100%"
+  />
+
+  <br/>
+  <br/>
+
+  <p>
+    Robot Fleet Monitoring Simulator — Operational dashboard for monitoring robotic workflows, incidents, and fleet activity.
+  </p>
+
+</div>
+
 ## Tech Stack
 
 - Python
