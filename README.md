@@ -66,9 +66,3 @@ robot-fleet-monitoring-simulator/
 - AI-assisted incident analysis
 - Multi-agent workflow simulation
 - ROS integration
-
-## Author
-
-Shanmukh Pilla
-M.Sc. Engineering of Socio-Technical Systems
-University of Oldenburg
